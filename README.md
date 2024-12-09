@@ -20,10 +20,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.selenium.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="40" height="40"/> </a> 
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+</a>
+<a href="https://www.selenium.dev" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
+</a>
+<a href="https://jmeter.apache.org/" target="_blank">
+  <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" width="40" height="40"/>
+</a>
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bala-S-R&show_icons=true&locale=en&layout=compact" alt="Bala-S-R" /></p>
