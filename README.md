@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bala-S-R&label=Profile%20views&color=0e75b6&style=flat" alt="Bala-S-R" /> </p>
 
-- 🌱 I’m currently learning **Advanced Automation Testing, API Automation, and Performance Testing.**
+- 🌱 I’m currently learning **Advanced Automation Testing and JMeter.**
 
 - 💬 Ask me about **Manual Testing, Automation Testing with Selenium (Java), and API Testing using Postman and JMeter.**
 
