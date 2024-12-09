@@ -35,10 +35,11 @@
 <a href="https://www.postman.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </a>
-
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bala-S-R&show_icons=true&locale=en&layout=compact" alt="Bala-S-R" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bala-S-R&show_icons=true&locale=en&layout=compact" alt="Bala-S-R" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bala-S-R&show_icons=true&locale=en" alt="Bala-S-R" /></p>
 
